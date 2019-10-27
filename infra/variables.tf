@@ -1,9 +1,9 @@
 variable "subnet_id" {
-  default = "subnet-023e9157931aa1eb8"
+  default = "subnet-0ab74dac0b2fe2fa8"
 }
 
 variable "vpc_id" {
-  default = "vpc-083ca94deb3065ae2"
+  default = "vpc-0877127fdee15a46c"
 }
 
 
